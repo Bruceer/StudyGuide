@@ -17,21 +17,21 @@ ReadMe文件与excel文件基本相同，供快速选择
 高等数学	微积分 极限理论与一元函数	扈志明	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421075X+2018_T2/about  
 高等数学	微积分 多元函数与重积分	扈志明	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421084X+2018_T2/about  
 高等数学	高等数学习题课——一元函数微分学与不定积分	闫浩	北邮	中	http://www.xuetangx.com/courses/course-v1:BUPT+3412113011+2018_T2/about    
-高等数学	单变量微积分	David Jerison	MIT	英	http://open.163.com/special/sp/singlevariablecalculus.html  
-高等数学	单变量微积分习题课	多人	MIT	英	http://open.163.com/special/opencourse/calculus.html  
-高等数学	多变量微积分	Denis Auroux	MIT	英	http://open.163.com/special/opencourse/multivariable.html
-高等数学	多变量微积分习题课	多人	MIT	英	http://open.163.com/special/opencourse/duobianliangweijifen.html
-高等数学	微积分重点	Strang	MIT	英	http://open.163.com/special/opencourse/weijifen.html
-高等数学	微分方程	Arthur Mattuck	MIT	英	http://open.163.com/special/opencourse/equations.html
-高等数学	微分方程习题	多人	MIT	英	https://www.bilibili.com/video/av41178651/
-数学分析	数学分析	史济怀	中科大	中	https://www.bilibili.com/video/av18844091
-数学分析	数学基础选讲	龚昇	中科大	中	https://www.bilibili.com/video/av9373657
-数学分析	微积分讲座	刘坤林	清华	中	https://www.bilibili.com/video/av11153344
-线性代数	线性代数(1)	马辉	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about
-线性代数	线性代数(2)	马辉	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about
-线性代数	工程应用数学基础	杨文强	国防科大	中	http://www.xuetangx.com/courses/course-v1:NUDT+500302501+_/about
-线性代数	线性代数	Strang	MIT	英	http://open.163.com/special/opencourse/daishu.html
-线性代数	线性代数习题	多人	MIT	英	http://open.163.com/special/opencourse/mitxianxingdaishuxitike.html
+高等数学	单变量微积分	David Jerison	MIT	英	http://open.163.com/special/sp/singlevariablecalculus.html    
+高等数学	单变量微积分习题课	多人	MIT	英	http://open.163.com/special/opencourse/calculus.html    
+高等数学	多变量微积分	Denis Auroux	MIT	英	http://open.163.com/special/opencourse/multivariable.html   
+高等数学	多变量微积分习题课	多人	MIT	英	http://open.163.com/special/opencourse/duobianliangweijifen.html  
+高等数学	微积分重点	Strang	MIT	英	http://open.163.com/special/opencourse/weijifen.html  
+高等数学	微分方程	Arthur Mattuck	MIT	英	http://open.163.com/special/opencourse/equations.html  
+高等数学	微分方程习题	多人	MIT	英	https://www.bilibili.com/video/av41178651  
+数学分析	数学分析	史济怀	中科大	中	https://www.bilibili.com/video/av18844091  
+数学分析	数学基础选讲	龚昇	中科大	中	https://www.bilibili.com/video/av9373657  
+数学分析	微积分讲座	刘坤林	清华	中	https://www.bilibili.com/video/av11153344  
+线性代数	线性代数(1)	马辉	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about  
+线性代数	线性代数(2)	马辉	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about  
+线性代数	工程应用数学基础	杨文强	国防科大	中	http://www.xuetangx.com/courses/course-v1:NUDT+500302501+_/about  
+线性代数	线性代数	Strang	MIT	英	http://open.163.com/special/opencourse/daishu.html  
+线性代数	线性代数习题	多人	MIT	英	http://open.163.com/special/opencourse/mitxianxingdaishuxitike.html  
 线性代数	矩阵分析	吴培元	新竹交大	中	https://www.bilibili.com/video/av5405999
 高等代数	高等代数	丘维声	北大	中	https://www.bilibili.com/video/av7336544
 高等代数	线性代数选讲	龚昇	中科大	中	https://www.bilibili.com/video/av9376568
@@ -71,8 +71,8 @@ ReadMe文件与excel文件基本相同，供快速选择
 	统计方法					
 	实验设计					
 						
-"场
-电荷载体"	大学物理	大学物理1 (力学、热学)	安宇	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10430484X_2015_2+sp/about
+## 场电荷载体
+大学物理	大学物理1 (力学、热学)	安宇	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10430484X_2015_2+sp/about
 	大学物理	大学物理2 (电磁学、光学和量子物理)	安宇	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10430494X_2015_2+sp/about
 	大学物理	经典力学	Walter Lewin	MIT	英	http://open.163.com/special/opencourse/classicalmechanics.html
 	大学物理	经典力学习题课	Walter Lewin	MIT	英	http://open.163.com/special/opencourse/jingdianlixuexitike.html
@@ -106,7 +106,7 @@ ReadMe文件与excel文件基本相同，供快速选择
 	光纤通信	光纤通信技术	张新亮	华中科技	中	https://www.bilibili.com/video/av12516949
 	数理类	小红星书库		复旦	中	https://mp.weixin.qq.com/s/TyxEroDfFI4kTJiFEmAtvg
 	
-  电势-电路
+  ## 电势-电路
   电路分析	电路原理	于歆杰	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2018_T3/about  
 	电路分析	电路分析基础	张建秋	复旦	中	https://www.bilibili.com/video/av3712713  
 	电路分析	电路和电子学	Anant Agarwal 	MIT	英	http://open.163.com/special/opencourse/circuits.html  
@@ -146,8 +146,8 @@ ReadMe文件与excel文件基本相同，供快速选择
 	电力拖动				中	
 	检测技术				中	
 						
-"比特
--逻辑"	数字电路	数字电子技术基础	王红	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250103X+sp/about
+## "比特-逻辑"	
+数字电路	数字电子技术基础	王红	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250103X+sp/about
 	数字电路	Computation Structures 	Steve Ward	MIT	英	https://www.bilibili.com/video/av17781618
 	数字电路	Computer Arithmetic	Behrooz Parhami	UCSB	英	https://www.ece.ucsb.edu/~parhami/text_comp_arit.htm#slides
 	数字电路	Computer Arithmetic	Jean-Pierre Deschamps		英	http://www.arithmetic-circuits.org/
@@ -174,8 +174,8 @@ ReadMe文件与excel文件基本相同，供快速选择
 	Linux					
 	GPU					
 						
-"数据
--算法"	计算机基础	计算机文化基础	李秀	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+20740042X+sp/about
+## "数据-算法"	
+计算机基础	计算机文化基础	李秀	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+20740042X+sp/about
 	高级语言程序设计	C++语言程序设计基础	郑莉	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/about
 	面向对象程序设计	C++语言程序设计进阶	郑莉	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x_2015_T2+sp/about
 	面向对象程序设计	面向对象程序设计（C++）	徐明星	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240532X+sp/about
@@ -226,8 +226,8 @@ ReadMe文件与excel文件基本相同，供快速选择
 	区块链			UCB	英	
 	区块链	Bitcoin and Cryptocurrency Technologies		普林斯顿	英	https://www.bilibili.com/video/av41093696
 						
-"媒体
-认知"	数字图像处理	图像处理与分析	贾永红	武汉大学	中	http://www.xuetangx.com/courses/course-v1:whu+whu2017101001x+sp/about
+## 媒体 认知
+数字图像处理	图像处理与分析	贾永红	武汉大学	中	http://www.xuetangx.com/courses/course-v1:whu+whu2017101001x+sp/about
 	数字图像处理				英	
 	OpenCV					
 	语音信号处理				中	
@@ -244,8 +244,8 @@ ReadMe文件与excel文件基本相同，供快速选择
 	自然语言处理	NLP		斯坦福	英	https://www.bilibili.com/video/av18503495
 	AI资源集合	AI资源集合	多人		英	https://github.com/kmario23/deep-learning-drizzle
 						
-"其他
-要素"	论文写作	如何写好科研论文	高飞飞	清华	中	http://www.xuetangx.com/courses/course-v1:Tsinghua+20150001+sp/about
+## 其他要素	
+论文写作	如何写好科研论文	高飞飞	清华	中	http://www.xuetangx.com/courses/course-v1:Tsinghua+20150001+sp/about
 	英语	生活英语读写	杨芳	清华	英	http://www.xuetangx.com/courses/course-v1:TsinghuaX+90640012X+sp/about
 	英语	生活英语进阶	杨芳	清华	英	http://www.xuetangx.com/courses/course-v1:TsinghuaX+90640012X_1+sp/about
 	英语	英文科技论文写作与学术报告	管晓宏	清华	英	http://www.xuetangx.com/courses/course-v1:TsinghuaX+60250101X+2018_T2/about
