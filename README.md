@@ -6,17 +6,17 @@
 本列表中课程将竭尽全力无死角覆盖EECS所有成熟课程  
 学习顺序可以是：本校要求—>名校要求—>自身兴趣，祝各位学习愉快！  
 ReadMe文件与excel文件基本相同，供快速选择  
-导论
+## 导论
 专业导论	电子信息科学与技术导引(1)	王希勤	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+30230931X_2015_2+sp/about  
-导论	专业导论	电子信息科学与技术导引(1)	王希勤	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+30230931X_2015_2+sp/about  
+专业导论	电子信息科学与技术导引(1)	王希勤	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+30230931X_2015_2+sp/about  
 专业导论	6.00SC Introduction to Computer Science and Programming	John Guttag	MIT	英	https://www.bilibili.com/video/av2710394  
-专业导论	6.001 Introduction to Computer Science and Programming in Python.	多人	MIT	英	https://www.bilibili.com/video/av27987738
-专业导论	6.02 Introduction to EECS via Communication Networks	多人	MIT	英	https://www.bilibili.com/video/av26899709
+专业导论	6.001 Introduction to Computer Science and Programming in Python.	多人	MIT	英	https://www.bilibili.com/video/av27987738  
+专业导论	6.02 Introduction to EECS via Communication Networks	多人	MIT	英	https://www.bilibili.com/video/av26899709 
 
-物质及其运动规律  
+## 物质及其运动规律  
 高等数学	微积分 极限理论与一元函数	扈志明	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421075X+2018_T2/about  
 高等数学	微积分 多元函数与重积分	扈志明	清华	中	http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421084X+2018_T2/about  
-高等数学	高等数学习题课——一元函数微分学与不定积分	闫浩	北邮	中	http://www.xuetangx.com/courses/course-v1:BUPT+3412113011+2018_T2/about  
+高等数学	高等数学习题课——一元函数微分学与不定积分	闫浩	北邮	中	http://www.xuetangx.com/courses/course-v1:BUPT+3412113011+2018_T2/about    
 高等数学	单变量微积分	David Jerison	MIT	英	http://open.163.com/special/sp/singlevariablecalculus.html  
 高等数学	单变量微积分习题课	多人	MIT	英	http://open.163.com/special/opencourse/calculus.html  
 高等数学	多变量微积分	Denis Auroux	MIT	英	http://open.163.com/special/opencourse/multivariable.html
